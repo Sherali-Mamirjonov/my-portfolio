@@ -1,0 +1,24 @@
+.container{
+    max-width:1360px;
+    margin:0 auto;
+}
+.main-header__logo{
+    display:inline-block;
+    vertical-align:middle;
+}
+.main-header__logo a{
+    font-size:15px;
+    color:#EEEEF0;
+    text-decoration:none;
+    font-weight:bold;
+    text-transform:uppercase;
+}
+
+.main-navigation{
+    display:inline-block;
+    vertical-align:middle;
+}
+.main-navigation__item{
+    display:inline-block;
+    padding:10px;
+}
