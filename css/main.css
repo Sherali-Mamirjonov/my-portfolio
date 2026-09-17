@@ -175,6 +175,9 @@ body{
     padding:20px 0;
     border-top:1px solid #EEEEf06B;
 }
+.about-info{
+    margin-top:50px;
+}
 .info-title{
     padding: 2px 0px 0px;
     color:#00C2CB;
@@ -189,8 +192,17 @@ body{
     line-height:1.6;
 }
 .role{
-    margin-left:60px;
+    margin-left:83px;
 }
 .edu{
-    margin-left:30px;
+    margin-left:48px;
+}
+.focus{
+    margin-left:78px;
+}
+.interset{
+    margin-left:53px;
+}
+.tech{
+    margin-left:25px;
 }
