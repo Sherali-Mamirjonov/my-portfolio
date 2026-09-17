@@ -3,7 +3,7 @@ body{
     margin:0;
 }
 .container{
-    max-width:1360px;
+    width:1400px;
     margin:0 auto;
 }
 .clearfix{
@@ -115,11 +115,13 @@ body{
 }
 
 /*About section*/
-
+.about-container{
+    margin:0 auto;
+}
 .about{
     padding-top:70px;
     display:flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     background-color: rgb(12, 12, 14);
     width:100%;
 }
