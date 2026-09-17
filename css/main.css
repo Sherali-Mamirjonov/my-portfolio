@@ -6,6 +6,9 @@ body{
     max-width:1360px;
     margin:0 auto;
 }
+.clearfix{
+    clear:both;
+}
 
 /*Header section*/
 .main-header__logo{
@@ -109,4 +112,14 @@ body{
     border-radius:10px;
     color: rgba(238, 238, 240, 0.6);
     font-weight:700;
+}
+
+/*About section*/
+.about > div{
+    width:50%;
+    float:left;
+}
+.about{
+    background-color: rgb(12, 12, 14);
+    width:1360px;
 }
