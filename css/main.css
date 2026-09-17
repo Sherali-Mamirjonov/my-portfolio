@@ -115,11 +115,11 @@ body{
 }
 
 /*About section*/
-.about > div{
-    width:50%;
-    float:left;
-}
+
 .about{
+    display:flex;
+    justify-content: space-between;
     background-color: rgb(12, 12, 14);
-    width:1360px;
+    width:100%;
+    
 }
