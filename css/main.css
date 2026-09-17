@@ -117,9 +117,36 @@ body{
 /*About section*/
 
 .about{
+    padding-top:70px;
     display:flex;
     justify-content: space-between;
     background-color: rgb(12, 12, 14);
     width:100%;
-    
+}
+.section-number{
+    margin-right:14px;
+    font-size:12px;
+    color:#00C2CB;
+}
+.section-name{
+    font-size:12px;
+    color:#EEEEf06B;
+    text-transform:uppercase;
+}
+.section-name::before{
+    display: inline-block;
+    position: relative;
+    margin-right:7px;
+    bottom:4px;
+    content:"";
+    width:48px;
+    height:1.5px;
+    background-color: #00C2CB;
+}
+.about-title{
+    font-size:40px;
+    color:#EEEEF0;
+    letter-spacing: 1px;
+    font-weight:700;
+    margin-top:70px;
 }
