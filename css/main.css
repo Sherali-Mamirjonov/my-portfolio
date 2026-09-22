@@ -76,7 +76,7 @@ body{
     background-repeat:none;
     background-size: cover;;
     width:100%;
-    height:880px;
+    min-height:880px;
 }
 
 /*Hero section*/
