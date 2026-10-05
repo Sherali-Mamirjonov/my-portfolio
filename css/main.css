@@ -186,11 +186,16 @@
 
 /*Skills section */
 .skills-container{
+    min-width:1400px;
     margin: 0 auto;
+}
+.skills-intro{
+    min-width:1400px;
+    margin:0 auto;
 }
 .skills{
    background-color: rgb(17, 17, 22);
-   min-width:100%;
+   width:100%;
    padding: 112px 40px;
    min-height:450px;
    box-sizing: border-box;
