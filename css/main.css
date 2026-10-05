@@ -190,7 +190,7 @@
 }
 .skills{
    background-color: rgb(17, 17, 22);
-   max-width:100%;
+   min-width:100%;
    padding: 112px 40px;
    min-height:450px;
    box-sizing: border-box;
