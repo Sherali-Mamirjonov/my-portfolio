@@ -183,3 +183,27 @@
 .tech{
     margin-left:25px;
 }
+
+/*Skills section */
+.skills-container{
+    width:100%;
+    min-width: 1400px;
+    margin: 0 auto;
+}
+.skills{
+   background-color: rgb(17, 17, 22);
+   padding: 70px 48px;
+   min-height:450px;
+}
+.skills-description{
+    font-size:18px;
+    color:#EEEEF0;
+    padding-top:40px;
+    font-family:sans-serif;
+    text-transform:capitalize;
+}
+.skills-cards{
+    padding-top:100px;
+    display:flex;
+    justify-content: space-between;
+}
