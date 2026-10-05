@@ -236,3 +236,6 @@ color: rgba(255, 255, 255, 0.06);
     background-image:linear-gradient(135deg, rgba(139,92,246,0.08), rgba(99,102,241,0.04));
     border:1px solid rgba(139,92,246,0.35);
 }
+.skills-card:hover .skills-item::marker{
+    color:indigo;
+}
