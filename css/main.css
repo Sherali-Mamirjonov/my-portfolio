@@ -193,6 +193,7 @@
    width:100%;
    padding: 70px 48px;
    min-height:450px;
+   box-sizing: border-box;
 }
 .skills-description{
     margin:0 auto;
