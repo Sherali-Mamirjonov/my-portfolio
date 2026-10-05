@@ -205,5 +205,28 @@
 .skills-cards{
     padding-top:100px;
     display:flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
+}
+.skills-card .card-name{
+    font-size:16px;
+    color:#00C2CB;
+}
+.skills-card{
+    width:290px;
+    background: rgb(17, 17, 26);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 12px;
+    padding: 28px 24px;
+    box-shadow: none;
+    height: 282px;
+}
+.skills-item{
+    padding-left:25px;
+    font-size:18px;
+    color:rgb(240, 239, 246);
+    padding:15px;
+    border-top:1px solid rgba(255, 255, 255, 0.06)
+}
+.skills-item::marker{
+color: rgba(255, 255, 255, 0.06);
 }
