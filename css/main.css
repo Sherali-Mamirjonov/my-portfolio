@@ -39,17 +39,17 @@
 .main-navigation__item a:hover{
     color:#00C2CB;
 }
-.main-banner{
-    background-image:url('../images/my-image.png');
-    background-repeat:none;
-    background-size: cover;;
-    width:100%;
-    min-height:880px;
-}
 
 /*Hero section*/
 .hero-section{
     padding-top:80px;
+}
+.main-banner{
+    background-image:url('../images/my-image.png');
+    background-repeat:none;
+    background-size: cover;
+    width:100%;
+    min-height:880px;
 }
 .name, .surname{
     font-size:78px;
