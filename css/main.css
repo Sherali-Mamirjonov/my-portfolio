@@ -287,7 +287,7 @@ color: rgba(255, 255, 255, 0.06);
     position:absolute;
     display:inline-block;
     left:120px;
-    margin-top:30px;
+    margin-top:35px;
     content:"01";
     color:#757D6F;
 }
@@ -295,7 +295,7 @@ color: rgba(255, 255, 255, 0.06);
     position:absolute;
     display:inline-block;
     left:120px;
-    margin-top:30px;
+    margin-top:35px;
     content:"02";
     color:#757D6F;
 }
@@ -303,7 +303,7 @@ color: rgba(255, 255, 255, 0.06);
     position:absolute;
     display:inline-block;
     left:120px;
-    margin-top:30px;
+    margin-top:35px;
     content:"03";
     color:#757D6F;
 }
@@ -311,10 +311,27 @@ color: rgba(255, 255, 255, 0.06);
     position:absolute;
     display:inline-block;
     left:120px;
-    margin-top:30px;
+    margin-top:35px;
     content:"04";
     color:#757D6F;
 }
-.services-section__block:hover.block-1::before{
-    margin-bottom:160px;
+.services-section__block:hover .block-1::before{
+    margin-top:10px;
+    color:#00C2CB;
+}
+.block-title::after{
+    position:absolute;
+    display:inline-block;
+    content:"+";
+    color:#757D6F;
+    width:28px;
+    height:28px;
+    right:90px;
+    border:1px solid #757D6F;
+    text-align: center;
+}
+.services-section__block:hover .block-title::after{
+    transform:rotate(45deg);
+    border-color:#00C2CB;
+    margin-top:10px;
 }
