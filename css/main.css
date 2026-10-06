@@ -315,8 +315,8 @@ color: rgba(255, 255, 255, 0.06);
     content:"04";
     color:#757D6F;
 }
-.services-section__block:hover .block-1::before{
-    margin-top:10px;
+.services-section__block:hover::before{
+    margin-top:43px;
     color:#00C2CB;
 }
 .block-title::after{
