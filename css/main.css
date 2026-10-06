@@ -238,6 +238,9 @@ color: rgba(255, 255, 255, 0.06);
     box-sizing: border-box;
 }
 .services-section__blocks{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
     margin-top:70px;
 }
 .services-section__block{
@@ -248,9 +251,28 @@ color: rgba(255, 255, 255, 0.06);
     border-bottom: 1px solid rgba(255, 255, 255, 0.07);
 }
 .block-title{
+    padding:40px;
     position:relative;
-    color:#EEEEF09D;
+    color:#EEEE;
     font-size:24px;
     text-transform:uppercase;
     font-family: sans-serif;
+}
+.block-description{
+    position:absolute;
+    font-size:14px;
+    color: rgba(255, 253, 253, 0.07);
+    padding-top:10px;
+    text-transform:none;
+    font-family: sans-serif;
+    display:none;
+}
+.services-section__block:hover{
+    background-color: #1D4533;
+    border-left:3px solid #00C2CB;
+}
+.services-section__block:hover .block-description{
+    display:block;
+    color:#757D6F;
+    font-size:17px;
 }
