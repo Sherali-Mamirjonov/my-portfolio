@@ -185,21 +185,12 @@
 }
 
 /*Skills section */
-
-
 .skills{
    background-color: rgb(17, 17, 22);
    width:100%;
    padding: 112px;
    min-height:450px;
    box-sizing: border-box;
-}
-.skills-title{
-    font-size:18px;
-    color:#EEEEF0;
-    padding-top:60px;
-    font-family:sans-serif;
-    text-transform:capitalize;
 }
 .skills-cards{
     padding-top:100px;
@@ -236,4 +227,16 @@ color: rgba(255, 255, 255, 0.06);
 }
 .skills-card:hover .skills-item::marker{
     color:indigo;
+}
+
+/*Services section*/
+.services{
+    padding:100px;
+    background-color:rgb(12, 12, 14);
+    width:100%;
+    min-height:450px;
+    box-sizing: border-box;
+}
+.services-section__blocks{
+    margin-top:70px;
 }

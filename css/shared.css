@@ -29,3 +29,10 @@ body{
     height:1.5px;
     background-color: #00C2CB;
 }
+.section-title{
+    font-size:18px;
+    color:#EEEEF0;
+    padding-top:60px;
+    font-family:sans-serif;
+    text-transform:capitalize;
+}
