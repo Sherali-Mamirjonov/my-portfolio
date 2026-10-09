@@ -340,7 +340,8 @@ color: rgba(255, 255, 255, 0.06);
 .process-cards{
     margin-top:70px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    cursor:default;
 }
 .process-card__number{
     color:#8B5CF6;
@@ -366,4 +367,10 @@ color: rgba(255, 255, 255, 0.06);
     font-size:14px;
     font-family:sans-serif;
     line-height: 24px;
+}
+.process-card:hover .process-card__number{
+    background-image: linear-gradient(135deg, rgb(236,72,153), rgb(99,102,241));
+    border:1px solid rgb(236,72,153);
+    color:#FFF;
+    box-shadow:rgb(139,92,246,04) 0px 0px 20px;
 }
