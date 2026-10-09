@@ -339,8 +339,7 @@ color: rgba(255, 255, 255, 0.06);
 }
 .process-cards{
     margin-top:70px;
-    display:flex;
-    justify-content: center;
+    display: flex;
 }
 .process-card__number{
     height:38px;
