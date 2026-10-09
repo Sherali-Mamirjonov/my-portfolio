@@ -237,12 +237,6 @@ color: rgba(255, 255, 255, 0.06);
     min-height:450px;
     box-sizing: border-box;
 }
-.services-section__blocks{
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    margin-top:70px;
-}
 .service-section__title{
     margin-bottom:40px;
 }
@@ -336,4 +330,9 @@ color: rgba(255, 255, 255, 0.06);
     transform:rotate(45deg);
     border-color:#00C2CB;
     margin-top:10px;
+}
+
+/*Process section*/
+.process{
+    padding:100px;
 }

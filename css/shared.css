@@ -36,3 +36,10 @@ body{
     font-family:sans-serif;
     text-transform:capitalize;
 }
+.services-section__blocks{
+    display: flex;
+    flex-direction: column;
+    padding-right:100px;
+    width: 1300px;
+    margin-top:70px;
+}
