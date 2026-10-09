@@ -343,6 +343,7 @@ color: rgba(255, 255, 255, 0.06);
     justify-content: space-evenly;
 }
 .process-card__number{
+    color:#8B5CF6;
     height:38px;
     width:38px;
     border:1px solid rgba(255, 255, 255, 0.06);
