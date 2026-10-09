@@ -322,7 +322,7 @@ color: rgba(255, 255, 255, 0.06);
     color:#757D6F;
     width:28px;
     height:28px;
-    right:90px;
+    right:18px;
     border:1px solid #757D6F;
     text-align: center;
 }
@@ -335,4 +335,34 @@ color: rgba(255, 255, 255, 0.06);
 /*Process section*/
 .process{
     padding:100px;
+    background-color: #0C0C0E;
+}
+.process-cards{
+    margin-top:70px;
+    display:flex;
+    justify-content: center;
+}
+.process-card__number{
+    height:38px;
+    width:38px;
+    border:1px solid rgba(255, 255, 255, 0.06);
+    background-color: rgb(17, 17, 26);
+    border-radius:10px;
+    position: relative;
+    margin-bottom:28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.process-card__title{
+    color:#F0EFF6CC;
+    font-size:18px;
+    margin:0px 0px 10px;
+    font-family: sans-serif;
+}
+.process-card__description{
+    color:#F0EFF673;
+    font-size:14px;
+    font-family:sans-serif;
+    line-height: 24px;
 }
