@@ -208,8 +208,9 @@
     border-radius: 12px;
     padding: 28px 24px;
     box-shadow: none;
-    height: 282px;
+    height: 343px;
     margin-right:10px;
+    box-sizing: border-box;
 }
 .skills-item{
     padding-left:25px;
@@ -268,7 +269,7 @@ color: rgba(255, 255, 255, 0.06);
 }
 .services-section__block:hover{
     background-color: #1D4533;
-    border-left:3px solid #00C2CB;
+    border-left:3px solid #14191C;;
 }
 .services-section__block:hover .block-description{
     display:block;
