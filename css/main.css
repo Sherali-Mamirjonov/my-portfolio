@@ -382,3 +382,11 @@ color: rgba(255, 255, 255, 0.06);
     color:#FFF;
     box-shadow:rgb(139,92,246,04) 0px 0px 20px;
 }
+
+/*Contact section*/
+.contact{
+    background-color:rgb(17, 17, 22);
+    padding-top:100px;
+    display: flex;
+    justify-content: space-evenly;
+}
