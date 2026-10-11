@@ -390,3 +390,15 @@ color: rgba(255, 255, 255, 0.06);
     display: flex;
     justify-content: space-evenly;
 }
+.contact-intro{
+    position: relative;
+    left:85px;
+}
+.contact-section__title{
+    padding-left:120px;
+    font-size:70px;
+    color:#EEEEF0;
+    text-transform:uppercase;
+    font-family: sans-serif;
+    margin-top:40px;
+}
