@@ -1,4 +1,7 @@
 /*Core styles*/
+*{
+    box-sizing: border-box;
+}
 body{
     margin:0;
 }
