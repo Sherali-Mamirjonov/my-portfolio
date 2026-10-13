@@ -229,7 +229,7 @@
     font-size:18px;
     color:rgb(240, 239, 246);
     padding:15px;
-    border-top:1px solid rgba(255, 255, 255, 0.06)
+    border-top:1px solid rgba(255, 255, 255, 0.06);
 }
 .skills-item::marker{
 color: rgba(255, 255, 255, 0.06);
@@ -281,7 +281,7 @@ color: rgba(255, 255, 255, 0.06);
 }
 .services-section__block:hover{
     background-color: #1D4533;
-    border-left:3px solid #14191C;;
+    border-left:3px solid #14191C;
 }
 .services-section__block:hover .block-description{
     display:block;
@@ -312,7 +312,7 @@ color: rgba(255, 255, 255, 0.06);
 .block-3::before{
     position:absolute;
     display:inline-block;
-    margin-left:0;;
+    margin-left:0;
     margin-top:35px;
     content:"03";
     color:#757D6F;
@@ -413,7 +413,7 @@ color: rgba(255, 255, 255, 0.06);
     
 }
 .contact-section__links-description{
-    color:rgb(53, 108, 144)
+    color:rgb(53, 108, 144);
 }
 .contact-section__link{
     border-top:1px solid rgba(255, 255, 255, 0.07);
