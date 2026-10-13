@@ -93,13 +93,16 @@
     border:none;
     font-size:14px;
     background-color: #00C2CB;
-    color: #0C0C0E;
     text-transform:uppercase;
     padding:14px 32px;
     cursor:pointer;
     font-weight:700;
     letter-spacing:0.5px;
     border-radius:10px;
+}
+.projects-btn a{
+    text-decoration: none;
+    color: #0C0C0E;
 }
 .contact-btn{
     border: 1px solid rgba(238, 238, 240, 0.25);
@@ -110,8 +113,11 @@
     cursor: pointer;
     text-transform:uppercase;
     border-radius:10px;
-    color: rgba(238, 238, 240, 0.6);
     font-weight:700;
+}
+.contact-btn a{
+    text-decoration:none;
+    color: rgba(238, 238, 240, 0.6);
 }
 
 /*About section*/
@@ -203,6 +209,9 @@
 .skills-card .card-name{
     font-size:16px;
     color:#8B5CF6;
+}
+.card-name{
+    text-align: center;
 }
 .skills-card{
     width:290px;
@@ -426,6 +435,10 @@ color: rgba(255, 255, 255, 0.06);
     font-weight: 700;
     font-size: 14px;
     letter-spacing: 0.18em;
-    color: rgb(12, 12, 14);
     text-transform: uppercase;
+}
+.contact-section__button a{
+    text-decoration:none;
+    color: rgb(12, 12, 14);
+
 }
