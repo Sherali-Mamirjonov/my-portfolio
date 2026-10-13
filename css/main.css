@@ -107,12 +107,12 @@
 .contact-btn{
     border: 1px solid rgba(238, 238, 240, 0.25);
     background:transparent;
-    font-size:14px;
-    padding:14px 32px;
+    font-size:0.9rem;
+    padding:0.9rem 2rem;
     letter-spacing: 0.5px;
     cursor: pointer;
     text-transform:uppercase;
-    border-radius:10px;
+    border-radius:0.625rem;
     font-weight:700;
 }
 .contact-btn a{
