@@ -13,12 +13,12 @@ body{
     clear:both;
 }
 .section-number{
-    margin-right:14px;
-    font-size:12px;
+    margin-right:0.875rem;
+    font-size:0.75rem;
     color:#00C2CB;
 }
 .section-name{
-    font-size:12px;
+    font-size:0.75rem;
     color:#EEEEf06B;
     text-transform:uppercase;
 }
@@ -33,35 +33,35 @@ body{
     background-color: #00C2CB;
 }
 .section-title{
-    font-size:18px;
+    font-size:1.125rem;
     color:#EEEEF0;
-    padding-top:30px;
+    padding-top:1.875rem;
     font-family:sans-serif;
     text-transform:capitalize;
 }
 .services-section__blocks{
     display: flex;
     flex-direction: column;
-    padding-right:100px;
+    padding-right:6.25rem;
     width: 1300px;
     margin-top:70px;
 }
 footer{
-    padding-top:40px;
+    padding-top:2.5rem;
     background-color:rgb(6, 6, 6);
 }
 .footer-links{
-    padding:20px;
+    padding:1.25rem;
     display:flex;
     justify-content: center;
     align-items: center;
     flex-direction: row;
 }
 .footer-link{
-    padding:10px;
+    padding:0.625rem;
 }
 .footer-link a i{
-    font-size:18px;
+    font-size:1.125rem;
     color:white;
     height:17px;
     width:18px;
