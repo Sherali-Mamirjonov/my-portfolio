@@ -133,81 +133,81 @@
     min-height:450px;
 }
 .about-title{
-    font-size:40px;
+    font-size:2.5rem;
     color:#EEEEF0;
     letter-spacing: 1px;
     text-transform: uppercase;
     font-weight:700;
-    margin-top:70px;
+    margin-top:4.375rem;
 }
 .statistics{
-    margin-top:-20px;
+    margin-top:-1.25rem;
 }
 .statistics-item{
     display:inline-block;
     width:170px;
 }
 .statistics-number{
-    font-size:52px;
+    font-size:3.25rem;
     color:#00C2CB;
 }
 .statistics-title{
-    font-size:12px;
+    font-size:0.75rem;
     color:#EEEEf06B;
     text-transform: uppercase;
-    margin-top:-50px;
+    margin-top:-3.125rem;
 }
 .about-info > div{
-    padding:20px 0;
+    padding:1.25rem 0;
     border-top:1px solid #EEEEf06B;
 }
 .about-info{
-    margin-top:50px;
+    margin-top:3.125rem;
 }
 .info-title{
     padding: 2px 0 0;
     color:#00C2CB;
-    font-size:12px;
+    font-size:0.75rem;
     font-weight:500;
     text-transform:uppercase;
 }
 .info-description{
     color:#EEEEF0;
-    font-size:15px;
+    font-size:1rem;
     font-weight:300;
     line-height:1.6;
 }
 .role{
-    margin-left:83px;
+    margin-left:5.19rem;
 }
 .edu{
-    margin-left:48px;
+    margin-left:3rem;
 }
 .focus{
-    margin-left:78px;
+    margin-left:4.875rem;
 }
 .interset{
-    margin-left:53px;
+    margin-left:3.32rem;
 }
 .tech{
-    margin-left:25px;
+    margin-left:1.56rem;
 }
 
 /*Skills section */
 .skills{
    background-color: rgb(17, 17, 22);
    width:100%;
-   padding: 112px;
+   padding: 7rem;
    min-height:450px;
    box-sizing: border-box;
 }
 .skills-cards{
-    padding-top:100px;
+    padding-top:6.25rem;
     display:flex;
     justify-content:center;
 }
 .skills-card .card-name{
-    font-size:16px;
+    font-size:1rem;
     color:#8B5CF6;
 }
 .card-name{
@@ -217,18 +217,18 @@
     width:290px;
     background: rgb(17, 17, 26);
     border: 1px solid rgba(255, 255, 255, 0.06);
-    border-radius: 12px;
-    padding: 28px 24px;
+    border-radius: 0.75rem;
+    padding: 1.75rem 1.5rem;
     box-shadow: none;
     height: 343px;
-    margin-right:10px;
+    margin-right:0.625rem;
     box-sizing: border-box;
 }
 .skills-item{
-    padding-left:25px;
-    font-size:18px;
+    padding-left:1.56rem;
+    font-size:1.125rem;
     color:rgb(240, 239, 246);
-    padding:15px;
+    padding:1rem;
     border-top:1px solid rgba(255, 255, 255, 0.06);
 }
 .skills-item::marker{
@@ -244,37 +244,37 @@ color: rgba(255, 255, 255, 0.06);
 
 /*Services section*/
 .services{
-    padding:100px;
+    padding:6.25rem;
     background-color:rgb(12, 12, 14);
     width:100%;
     min-height:450px;
     box-sizing: border-box;
 }
 .service-section__title{
-    margin-bottom:40px;
+    margin-bottom:2.5rem;
 }
 .services-section__block{
     position: relative;
-    padding-left:80px;
+    padding-left:5rem;
     border-top:1px solid rgba(255, 255, 255, 0.07);
 }
 .block-4{
     border-bottom: 1px solid rgba(255, 255, 255, 0.07);
 }
 .block-title{
-    margin-left:50px;
-    padding:30px;
+    margin-left:3.125rem;
+    padding:1.875rem;
     position:relative;
     color:#EEEE;
-    font-size:24px;
+    font-size:1.5rem;
     text-transform:uppercase;
     font-family: sans-serif;
 }
 .block-description{
     position:absolute;
-    font-size:14px;
+    font-size:0.875rem;
     color: rgba(255, 253, 253, 0.07);
-    padding-top:10px;
+    padding-top:0.625rem;
     text-transform:none;
     font-family: sans-serif;
     display:none;
@@ -286,18 +286,18 @@ color: rgba(255, 255, 255, 0.06);
 .services-section__block:hover .block-description{
     display:block;
     color:#757D6F;
-    font-size:17px;
-    padding-top:10px;
+    font-size:1rem;
+    padding-top:0.625rem;
 }
 .services-section__block:hover .block-title{
-    padding-bottom:50px;
+    padding-bottom:3.125rem;
 }
 .block-1::before{
 
     position:absolute;
     display:inline-block;
     margin-left:0;
-    margin-top:35px;
+    margin-top:2.19rem;
     content:"01";
     color:#757D6F;
 }
@@ -305,7 +305,7 @@ color: rgba(255, 255, 255, 0.06);
     position:absolute;
     display:inline-block;
     margin-left:0;
-    margin-top:35px;
+    margin-top:2.19rem;
     content:"02";
     color:#757D6F;
 }
@@ -313,7 +313,7 @@ color: rgba(255, 255, 255, 0.06);
     position:absolute;
     display:inline-block;
     margin-left:0;
-    margin-top:35px;
+    margin-top:2.19rem;
     content:"03";
     color:#757D6F;
 }
@@ -321,12 +321,12 @@ color: rgba(255, 255, 255, 0.06);
     position:absolute;
     display:inline-block;
     margin-left:0;
-    margin-top:35px;
+    margin-top:2.19rem;
     content:"04";
     color:#757D6F;
 }
 .services-section__block:hover::before{
-    margin-top:43px;
+    margin-top:2.69rem;
     color:#00C2CB;
 }
 .block-title::after{
@@ -343,22 +343,22 @@ color: rgba(255, 255, 255, 0.06);
 .services-section__block:hover .block-title::after{
     transform:rotate(45deg);
     border-color:#00C2CB;
-    margin-top:10px;
+    margin-top:0.625rem;
 }
 
 /*Process section*/
 .process{
-    padding:100px;
+    padding:6.25rem;
     background-color: #0C0C0E;
 }
 .process-cards{
-    margin-top:70px;
+    margin-top:4.375rem;
     display: flex;
     justify-content:center;
     cursor:default;
 }
 .process-card{
-    margin-left:80px;
+    margin-left:5rem;
 }
 .process-card__number{
     color:#8B5CF6;
@@ -366,22 +366,22 @@ color: rgba(255, 255, 255, 0.06);
     width:38px;
     border:1px solid rgba(255, 255, 255, 0.06);
     background-color: rgb(17, 17, 26);
-    border-radius:10px;
+    border-radius:0.625rem;
     position: relative;
-    margin-bottom:28px;
+    margin-bottom:1.75rem;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .process-card__title{
     color:#F0EFF6CC;
-    font-size:18px;
-    margin:0 0 10px;
+    font-size:1.125rem;
+    margin:0 0 0.625rem;
     font-family: sans-serif;
 }
 .process-card__description{
     color:#F0EFF673;
-    font-size:14px;
+    font-size:0.875rem;
     font-family:sans-serif;
     line-height: 24px;
 }
@@ -395,21 +395,21 @@ color: rgba(255, 255, 255, 0.06);
 /*Contact section*/
 .contact{
     background-color:rgb(17, 17, 22);
-    padding-top:100px;
+    padding-top:6.25rem;
     display: flex;
     justify-content: center;
 }
 .contact-section__title{
-    padding-left:80px;
-    font-size:70px;
+    padding-left:5rem;
+    font-size:4.375rem;
     color:#EEEEF0;
     text-transform:uppercase;
     font-family: sans-serif;
-    margin-top:40px;
+    margin-top:2.5rem;
 }
 .contact-section__links{
-    margin-top:30px;
-    margin-left:180px;
+    margin-top:1.875rem;
+    margin-left:11.25rem;
     
 }
 .contact-section__links-description{
@@ -422,18 +422,18 @@ color: rgba(255, 255, 255, 0.06);
 .contact-section__link a{
     text-decoration:none;
     color:#00C2CB;
-    font-size:14px;
+    font-size:0.875rem;
     text-transform:uppercase;
 }
 .contact-section__button{
-    margin-top:30px;
+    margin-top:1.875rem;
     background: rgb(0, 194, 203);
     border:medium none currentColor;
     cursor: pointer;
-    padding: 12px 20px;
+    padding: 0.75rem 1.25rem;
     font-family: "Barlow Condensed", sans-serif;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 0.875rem;
     letter-spacing: 0.18em;
     text-transform: uppercase;
 }
