@@ -665,3 +665,49 @@ footer{
     color:#FFF;
     box-shadow:rgb(139,92,246,04) 0 0 20px;
 }
+/*Header section*/
+.main-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    width:100%;
+    top:0;
+    left:0;
+    background-color: rgb(12, 12, 14);
+    box-shadow:0 3px 16px 0 rgb(12, 12, 14);
+    z-index:99;
+}
+.main-header__logo{
+    font-family:'Barlow Condensed, sans-serif';
+    display:inline-block;
+    vertical-align:middle;
+}
+.main-header__logo a{
+    font-size:1rem;
+    color:#EEEEF0;
+    text-decoration:none;
+    font-weight:bold;
+    text-transform:uppercase;
+}
+
+.main-navigation{
+    display:inline-block;
+    vertical-align:middle;
+    margin-left:38.75rem;
+}
+.main-navigation__item{
+    font-family:'DM Sans, sans-serif';
+    display:inline-block;
+    padding:0.625rem;
+}
+.main-navigation__item a{
+    font-size:0.75rem;
+    color:#EEEEf06B;
+    text-transform:uppercase;
+    text-decoration:none;
+    font-weight:500;
+}
+.main-navigation__item a:hover{
+    color:#00C2CB;
+}
