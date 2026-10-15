@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url('BarlowCondensed-Black.eot');
-    src: url('BarlowCondensed-Black.eot?#iefix') format('embedded-opentype'),
-        url('BarlowCondensed-Black.woff2') format('woff2'),
-        url('BarlowCondensed-Black.woff') format('woff'),
-        url('BarlowCondensed-Black.ttf') format('truetype');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-Black.eot');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Black.woff2') format('woff2'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Black.woff') format('woff'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -12,11 +12,11 @@
 
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url('BarlowCondensed-BoldItalic.eot');
-    src: url('BarlowCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('BarlowCondensed-BoldItalic.woff2') format('woff2'),
-        url('BarlowCondensed-BoldItalic.woff') format('woff'),
-        url('BarlowCondensed-BoldItalic.ttf') format('truetype');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-BoldItalic.eot');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-BoldItalic.woff2') format('woff2'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-BoldItalic.woff') format('woff'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-BoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -24,11 +24,11 @@
 
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url('BarlowCondensed-ExtraBoldItalic.eot');
-    src: url('BarlowCondensed-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('BarlowCondensed-ExtraBoldItalic.woff2') format('woff2'),
-        url('BarlowCondensed-ExtraBoldItalic.woff') format('woff'),
-        url('BarlowCondensed-ExtraBoldItalic.ttf') format('truetype');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraBoldItalic.eot');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraBoldItalic.woff2') format('woff2'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraBoldItalic.woff') format('woff'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraBoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -36,11 +36,11 @@
 
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url('BarlowCondensed-LightItalic.eot');
-    src: url('BarlowCondensed-LightItalic.eot?#iefix') format('embedded-opentype'),
-        url('BarlowCondensed-LightItalic.woff2') format('woff2'),
-        url('BarlowCondensed-LightItalic.woff') format('woff'),
-        url('BarlowCondensed-LightItalic.ttf') format('truetype');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-LightItalic.eot');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-LightItalic.woff2') format('woff2'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-LightItalic.woff') format('woff'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-LightItalic.ttf') format('truetype');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
@@ -48,11 +48,11 @@
 
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url('BarlowCondensed-MediumItalic.eot');
-    src: url('BarlowCondensed-MediumItalic.eot?#iefix') format('embedded-opentype'),
-        url('BarlowCondensed-MediumItalic.woff2') format('woff2'),
-        url('BarlowCondensed-MediumItalic.woff') format('woff'),
-        url('BarlowCondensed-MediumItalic.ttf') format('truetype');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-MediumItalic.eot');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-MediumItalic.woff2') format('woff2'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-MediumItalic.woff') format('woff'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-MediumItalic.ttf') format('truetype');
     font-weight: 500;
     font-style: italic;
     font-display: swap;
@@ -60,11 +60,11 @@
 
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url('BarlowCondensed-Thin.eot');
-    src: url('BarlowCondensed-Thin.eot?#iefix') format('embedded-opentype'),
-        url('BarlowCondensed-Thin.woff2') format('woff2'),
-        url('BarlowCondensed-Thin.woff') format('woff'),
-        url('BarlowCondensed-Thin.ttf') format('truetype');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-Thin.eot');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Thin.woff2') format('woff2'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Thin.woff') format('woff'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -72,11 +72,11 @@
 
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url('BarlowCondensed-ThinItalic.eot');
-    src: url('BarlowCondensed-ThinItalic.eot?#iefix') format('embedded-opentype'),
-        url('BarlowCondensed-ThinItalic.woff2') format('woff2'),
-        url('BarlowCondensed-ThinItalic.woff') format('woff'),
-        url('BarlowCondensed-ThinItalic.ttf') format('truetype');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-ThinItalic.eot');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-ThinItalic.woff2') format('woff2'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-ThinItalic.woff') format('woff'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-ThinItalic.ttf') format('truetype');
     font-weight: 100;
     font-style: italic;
     font-display: swap;
@@ -84,11 +84,11 @@
 
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url('BarlowCondensed-BlackItalic.eot');
-    src: url('BarlowCondensed-BlackItalic.eot?#iefix') format('embedded-opentype'),
-        url('BarlowCondensed-BlackItalic.woff2') format('woff2'),
-        url('BarlowCondensed-BlackItalic.woff') format('woff'),
-        url('BarlowCondensed-BlackItalic.ttf') format('truetype');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-BlackItalic.eot');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-BlackItalic.woff2') format('woff2'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-BlackItalic.woff') format('woff'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-BlackItalic.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -96,11 +96,11 @@
 
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url('BarlowCondensed-Bold.eot');
-    src: url('BarlowCondensed-Bold.eot?#iefix') format('embedded-opentype'),
-        url('BarlowCondensed-Bold.woff2') format('woff2'),
-        url('BarlowCondensed-Bold.woff') format('woff'),
-        url('BarlowCondensed-Bold.ttf') format('truetype');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-Bold.eot');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Bold.woff2') format('woff2'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Bold.woff') format('woff'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -108,11 +108,11 @@
 
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url('BarlowCondensed-ExtraBold.eot');
-    src: url('BarlowCondensed-ExtraBold.eot?#iefix') format('embedded-opentype'),
-        url('BarlowCondensed-ExtraBold.woff2') format('woff2'),
-        url('BarlowCondensed-ExtraBold.woff') format('woff'),
-        url('BarlowCondensed-ExtraBold.ttf') format('truetype');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraBold.eot');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraBold.woff2') format('woff2'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraBold.woff') format('woff'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraBold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -120,11 +120,11 @@
 
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url('BarlowCondensed-ExtraLight.eot');
-    src: url('BarlowCondensed-ExtraLight.eot?#iefix') format('embedded-opentype'),
-        url('BarlowCondensed-ExtraLight.woff2') format('woff2'),
-        url('BarlowCondensed-ExtraLight.woff') format('woff'),
-        url('BarlowCondensed-ExtraLight.ttf') format('truetype');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraLight.eot');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraLight.woff2') format('woff2'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraLight.woff') format('woff'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraLight.ttf') format('truetype');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
@@ -132,11 +132,11 @@
 
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url('BarlowCondensed-ExtraLightItalic.eot');
-    src: url('BarlowCondensed-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
-        url('BarlowCondensed-ExtraLightItalic.woff2') format('woff2'),
-        url('BarlowCondensed-ExtraLightItalic.woff') format('woff'),
-        url('BarlowCondensed-ExtraLightItalic.ttf') format('truetype');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraLightItalic.eot');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraLightItalic.woff2') format('woff2'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraLightItalic.woff') format('woff'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-ExtraLightItalic.ttf') format('truetype');
     font-weight: 200;
     font-style: italic;
     font-display: swap;
@@ -144,11 +144,11 @@
 
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url('BarlowCondensed-Italic.eot');
-    src: url('BarlowCondensed-Italic.eot?#iefix') format('embedded-opentype'),
-        url('BarlowCondensed-Italic.woff2') format('woff2'),
-        url('BarlowCondensed-Italic.woff') format('woff'),
-        url('BarlowCondensed-Italic.ttf') format('truetype');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-Italic.eot');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Italic.woff2') format('woff2'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Italic.woff') format('woff'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -156,11 +156,11 @@
 
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url('BarlowCondensed-Light.eot');
-    src: url('BarlowCondensed-Light.eot?#iefix') format('embedded-opentype'),
-        url('BarlowCondensed-Light.woff2') format('woff2'),
-        url('BarlowCondensed-Light.woff') format('woff'),
-        url('BarlowCondensed-Light.ttf') format('truetype');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-Light.eot');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Light.woff2') format('woff2'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Light.woff') format('woff'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -168,11 +168,11 @@
 
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url('BarlowCondensed-Medium.eot');
-    src: url('BarlowCondensed-Medium.eot?#iefix') format('embedded-opentype'),
-        url('BarlowCondensed-Medium.woff2') format('woff2'),
-        url('BarlowCondensed-Medium.woff') format('woff'),
-        url('BarlowCondensed-Medium.ttf') format('truetype');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-Medium.eot');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Medium.woff2') format('woff2'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Medium.woff') format('woff'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -180,11 +180,11 @@
 
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url('BarlowCondensed-Regular.eot');
-    src: url('BarlowCondensed-Regular.eot?#iefix') format('embedded-opentype'),
-        url('BarlowCondensed-Regular.woff2') format('woff2'),
-        url('BarlowCondensed-Regular.woff') format('woff'),
-        url('BarlowCondensed-Regular.ttf') format('truetype');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-Regular.eot');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Regular.woff2') format('woff2'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Regular.woff') format('woff'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -192,11 +192,11 @@
 
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url('BarlowCondensed-SemiBold.eot');
-    src: url('BarlowCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
-        url('BarlowCondensed-SemiBold.woff2') format('woff2'),
-        url('BarlowCondensed-SemiBold.woff') format('woff'),
-        url('BarlowCondensed-SemiBold.ttf') format('truetype');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-SemiBold.eot');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-SemiBold.woff2') format('woff2'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-SemiBold.woff') format('woff'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -204,11 +204,11 @@
 
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url('BarlowCondensed-SemiBoldItalic.eot');
-    src: url('BarlowCondensed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('BarlowCondensed-SemiBoldItalic.woff2') format('woff2'),
-        url('BarlowCondensed-SemiBoldItalic.woff') format('woff'),
-        url('BarlowCondensed-SemiBoldItalic.ttf') format('truetype');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-SemiBoldItalic.eot');
+    src: url('../fonts/Barlow-Condensed/BarlowCondensed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-SemiBoldItalic.woff2') format('woff2'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-SemiBoldItalic.woff') format('woff'),
+        url('../fonts/Barlow-Condensed/BarlowCondensed-SemiBoldItalic.ttf') format('truetype');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
