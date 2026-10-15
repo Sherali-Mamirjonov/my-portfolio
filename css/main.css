@@ -12,7 +12,7 @@
     z-index:99;
 }
 .main-header__logo{
-    font-family:'Barlow Condensed';
+    font-family:'Barlow Condensed, sans-serif';
     display:inline-block;
     vertical-align:middle;
 }
@@ -56,7 +56,7 @@
     min-height:880px;
 }
 .name, .surname{
-    font-family:'Barlow Condensed';
+    font-family:'Barlow Condensed, sans-serif';
     font-size:4.875rem;
     color: #EEEEF0;
     font-weight:bold;
@@ -79,6 +79,7 @@
     background-color: #00C2CB;
 }
 .position{
+    font-family:'DM Sans, sans-serif';
     font-size:1.125rem;
     color: #00C2CB;
     text-transform:uppercase;
@@ -87,12 +88,13 @@
     margin-top:-1rem;
 }
 .description{
-    font-family:'Barlow Condensed';
+    font-family:'Barlow Condensed, sans-serif';
     font-size:1rem;
     color: #EEEEF085;
     font-weight:300;
 }
 .projects-btn{
+    font-family:'Barlow Condensed, sans-serif';
     border:none;
     font-size:0.9rem;
     background-color: #00C2CB;
@@ -108,6 +110,7 @@
     color: #0C0C0E;
 }
 .contact-btn{
+    font-family:'Barlow Condensed, sans-serif';
     border: 1px solid rgba(238, 238, 240, 0.25);
     background:transparent;
     font-size:0.9rem;
