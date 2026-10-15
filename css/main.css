@@ -1,49 +1,3 @@
-/*Header section*/
-.main-header{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    position: fixed;
-    width:100%;
-    top:0;
-    left:0;
-    background-color: rgb(12, 12, 14);
-    box-shadow:0 3px 16px 0 rgb(12, 12, 14);
-    z-index:99;
-}
-.main-header__logo{
-    font-family:'Barlow Condensed, sans-serif';
-    display:inline-block;
-    vertical-align:middle;
-}
-.main-header__logo a{
-    font-size:1rem;
-    color:#EEEEF0;
-    text-decoration:none;
-    font-weight:bold;
-    text-transform:uppercase;
-}
-
-.main-navigation{
-    display:inline-block;
-    vertical-align:middle;
-    margin-left:38.75rem;
-}
-.main-navigation__item{
-    display:inline-block;
-    padding:0.625rem;
-}
-.main-navigation__item a{
-    font-size:0.75rem;
-    color:#EEEEf06B;
-    text-transform:uppercase;
-    text-decoration:none;
-    font-weight:500;
-}
-.main-navigation__item a:hover{
-    color:#00C2CB;
-}
-
 /*Hero section*/
 .hero-section{
     padding-top:5rem;
@@ -281,7 +235,7 @@ color: rgba(255, 255, 255, 0.06);
     color:#EEEE;
     font-size:1.5rem;
     text-transform:uppercase;
-    font-family: sans-serif;
+    font-family:'Barlow Condensed, sans-serif';
 }
 .block-description{
     position:absolute;
@@ -289,7 +243,7 @@ color: rgba(255, 255, 255, 0.06);
     color: rgba(255, 253, 253, 0.07);
     padding-top:0.625rem;
     text-transform:none;
-    font-family: sans-serif;
+    font-family:'JetBrains Mono, monospace';
     display:none;
 }
 .services-section__block:hover{
@@ -374,6 +328,7 @@ color: rgba(255, 255, 255, 0.06);
     margin-left:5rem;
 }
 .process-card__number{
+    font-family:'JetBrains Mono, monospace';
     color:#8B5CF6;
     height:38px;
     width:38px;
@@ -390,12 +345,12 @@ color: rgba(255, 255, 255, 0.06);
     color:#F0EFF6CC;
     font-size:1.125rem;
     margin:0 0 0.625rem;
-    font-family: sans-serif;
+    font-family:'Barlow Condensed, sans-serif';
 }
 .process-card__description{
     color:#F0EFF673;
     font-size:0.875rem;
-    font-family:sans-serif;
+    font-family:'JetBrains Mono, monospace';
     line-height: 24px;
 }
 .process-card:hover .process-card__number{
@@ -417,7 +372,7 @@ color: rgba(255, 255, 255, 0.06);
     font-size:4.375rem;
     color:#EEEEF0;
     text-transform:uppercase;
-    font-family: sans-serif;
+    font-family:'Barlow Condensed, sans-serif';
     margin-top:2.5rem;
 }
 .contact-section__links{
@@ -444,7 +399,7 @@ color: rgba(255, 255, 255, 0.06);
     border:medium none currentColor;
     cursor: pointer;
     padding: 0.75rem 1.25rem;
-    font-family: "Barlow Condensed", sans-serif;
+    font-family:'Barlow Condensed, sans-serif';
     font-weight: 700;
     font-size: 0.875rem;
     letter-spacing: 0.18em;
