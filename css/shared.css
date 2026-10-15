@@ -600,11 +600,13 @@ body{
     clear:both;
 }
 .section-number{
+    font-family:'JetBrains Mono, monospace';
     margin-right:0.875rem;
     font-size:0.75rem;
     color:#00C2CB;
 }
 .section-name{
+    font-family:'JetBrains Mono, monospace';
     font-size:0.75rem;
     color:#EEEEf06B;
     text-transform:uppercase;

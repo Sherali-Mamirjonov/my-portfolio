@@ -79,7 +79,7 @@
     background-color: #00C2CB;
 }
 .position{
-    font-family:'DM Sans, sans-serif';
+    font-family:'Barlow Condensed, sans-serif';
     font-size:1.125rem;
     color: #00C2CB;
     text-transform:uppercase;
@@ -88,7 +88,7 @@
     margin-top:-1rem;
 }
 .description{
-    font-family:'Barlow Condensed, sans-serif';
+    font-family:'DM Sans, sans-serif';
     font-size:1rem;
     color: #EEEEF085;
     font-weight:300;
@@ -139,6 +139,7 @@
     min-height:450px;
 }
 .about-title{
+    font-family:'Barlow Condensed, sans-serif';
     font-size:2.5rem;
     color:#EEEEF0;
     letter-spacing: 1px;
@@ -154,10 +155,12 @@
     width:170px;
 }
 .statistics-number{
+    font-family:'Barlow Condensed, sans-serif';
     font-size:3.25rem;
     color:#00C2CB;
 }
 .statistics-title{
+    font-family:'JetBrains Mono, monospace';
     font-size:0.75rem;
     color:#EEEEf06B;
     text-transform: uppercase;
@@ -171,6 +174,7 @@
     margin-top:3.125rem;
 }
 .info-title{
+    font-family:'JetBrains Mono, monospace';
     padding: 2px 0 0;
     color:#00C2CB;
     font-size:0.75rem;
@@ -178,6 +182,7 @@
     text-transform:uppercase;
 }
 .info-description{
+    font-family:'DM sans, sans-serif';
     color:#EEEEF0;
     font-size:1rem;
     font-weight:300;
@@ -217,6 +222,7 @@
     color:#8B5CF6;
 }
 .card-name{
+    font-family:'JetBrains Mono, monospace';
     text-align: center;
 }
 .skills-card{
@@ -231,6 +237,7 @@
     box-sizing: border-box;
 }
 .skills-item{
+    font-family:'Barlow Condensed, sans-serif';
     padding-left:1.56rem;
     font-size:1.125rem;
     color:rgb(240, 239, 246);
